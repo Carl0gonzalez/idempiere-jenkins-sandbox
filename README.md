@@ -1,22 +1,23 @@
-# 🧪 idempiere-jenkins-sandbox
+# idempiere-jenkins-sandbox
 
-Sandbox técnico para **experimentar integración entre iDempiere y Jenkins**, con foco en automatización y pruebas de pipeline.
+Repositorio público del perfil **Carl0gonzalez**, documentado para dejar un punto de entrada más claro sobre su propósito y contenido.
 
-![Jenkins](https://img.shields.io/badge/Jenkins-sandbox-D24939?logo=jenkins) ![iDempiere](https://img.shields.io/badge/iDempiere-ERP-0A7E8C)
+---
 
-## Descripción
+## 📌 Objetivo
 
-El repositorio funciona como espacio controlado para ensayar builds, jobs y automatización vinculada a iDempiere.
+Entregar una descripción breve y útil del repositorio para facilitar su revisión y mantenimiento.
 
-## Objetivo
+## 📁 Revisión recomendada
 
-Evaluar o demostrar flujos de integración continua sobre componentes del ecosistema ERP.
+Clona el repositorio y revisa su estructura interna para identificar el flujo técnico, académico o experimental correspondiente.
 
-## Uso
+```bash
+git clone git@github.com:Carl0gonzalez/idempiere-jenkins-sandbox.git
+cd idempiere-jenkins-sandbox
+```
 
-Revisa la configuración disponible y ajusta el entorno Jenkins según tu laboratorio.
-
-## Autor
+## 👤 Autor
 
 **Carlo González**
 
